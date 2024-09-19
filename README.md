@@ -33,8 +33,13 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 ## Skills
 
-| Projects    | Skills/Knowledge Gained |
-| -------- | ------- |
-| [1 - SVIETE Conduct a security audit](1%20-%20SVIETE%20Conduct%20a%20security%20audit.md)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`    |
-| 2... | TODO     |
-| 3...    | TODO    |
+Course | Projects files / notes   | Skills/Knowledge Gained | Certificate
+| -------- | ------- |------- |------- |
+| 1. Foundations of Cybersecurity 🌐| [1 - SVIETE Conduct a security audit](1%20-%20SVIETE%20Conduct%20a%20security%20audit.md)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`    | [link](https://www.coursera.org/account/accomplishments/verify/HBP5JL6LT5HC) |
+| 2. Play It Safe: Manage Security Risks 🔑|      |  | [link](https://www.coursera.org/account/accomplishments/verify/HE34A6NK0E74)|
+| 3. Connect and Protect: Networks and Network Security 🌐🔌  |     | | |
+| 4. Tools of the Trade: Linux and SQL  🛡️ 🐧 |     | | |
+| 5. Assets, Threats, and Vulnerabilities 🌍🔍 |     | | |
+| 6. Sound the Alarm: Detection and Response  🚨🔥 |     | | |
+| 7. Automate Cybersecurity Tasks with Python  ⚙️🐍 |     | | |
+| 8. Put It to Work: Prepare for Cybersecurity Jobs 🌟💡 |     | | |
