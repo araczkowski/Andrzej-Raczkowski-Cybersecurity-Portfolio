@@ -1,4 +1,4 @@
-# Andrzej-Raczkowski-Cybersecurity-Portfolio
+# Andrzej-Raczkowski-Cybersecurity-Portfolio 🛡️🔒
 
 > This repo is inspired by Google Cybersecurity course. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information.
 
@@ -35,6 +35,6 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 | Projects    | Skills/Knowledge Gained |
 | -------- | ------- |
-| [1 - Conduct a security audit](1%20-%20SVIETE%20Conduct%20a%20security%20audit.md)  | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad    |
+| [1 - SVIETE Conduct a security audit](1%20-%20SVIETE%20Conduct%20a%20security%20audit.md)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`    |
 | 2... | TODO     |
 | 3...    | TODO    |
