@@ -2,7 +2,7 @@
 
 > This repo is inspired by Google Cybersecurity course. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information.
 
-## Intro
+## Intro - 2024
 
 I am Andrzej Raczkowski. I am an independent software developer. 
 
@@ -33,13 +33,13 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 ## Skills
 
-Course | Projects files / notes   | Skills/Knowledge Gained | Certificate
-| -------- | ------- |------- |------- |
-| 1. Foundations of Cybersecurity 🌐| [1 - SVIETE Conduct a security audit](1%20-%20SVIETE%20Conduct%20a%20security%20audit.md)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`    | [link](https://www.coursera.org/account/accomplishments/verify/HBP5JL6LT5HC) |
-| 2. Play It Safe: Manage Security Risks 🔑|      |  | [link](https://www.coursera.org/account/accomplishments/verify/HE34A6NK0E74)|
-| 3. Connect and Protect: Networks and Network Security 🌐🔌  |     | | |
-| 4. Tools of the Trade: Linux and SQL  🛡️ 🐧 |     | | |
-| 5. Assets, Threats, and Vulnerabilities 🌍🔍 |     | | |
-| 6. Sound the Alarm: Detection and Response  🚨🔥 |     | | |
-| 7. Automate Cybersecurity Tasks with Python  ⚙️🐍 |     | | |
-| 8. Put It to Work: Prepare for Cybersecurity Jobs 🌟💡 |     | | |
+Projects | Skills/Knowledge Gained | Certificate
+| -------- |------- |------- |
+| [1 - Conduct a security audit 🌐](1%20-%20Conduct%20a%20security%20audit) | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`    | [link](https://www.coursera.org/account/accomplishments/verify/HBP5JL6LT5HC) |
+| [2 - Network Security 🔑](2%20-%20Network%20Security) | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`| [link](https://www.coursera.org/account/accomplishments/verify/HE34A6NK0E74)|
+| [3 - Linux & SQL 🐧 ](3%20-%20Linux%20%26%20SQL) | `Command-line Interface`, `SQL`, `Linux`, `Bash` |  |
+| [4 - Assets, Threats, & Vulnerabilities  🔍](4%20-%20Assets%2C%20Threats%2C%20%26%20Vulnerabilities) | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`| |
+| [5 - Detection & Response 🚨🔥](5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Incident Journal` | |
+| [6 - Tcpdump & Wireshark :shark:](6%20-%20Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | |
+| [7 - IDS & SIEM  🌟💡](7%20-%20IDS%20%26%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` | |
+| [8 - Automation with Python ⚙️🐍](8%20-%20Automation%20with%20Python) | `Python Programming`, `Coding`, `Automation`, `Scripting` | |
