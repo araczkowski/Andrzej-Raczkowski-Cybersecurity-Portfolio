@@ -35,11 +35,11 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 Projects | Skills/Knowledge Gained | Certificate
 -------- | ------- | -------
-[1 - Conduct a security audit 🌐](1%20-%20Conduct%20a%20security%20audit) | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` | [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/HBP5JL6LT5HC)
-[2 - Network Security 🔑](2%20-%20Network%20Security) | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HE34A6NK0E74)
-[3 - Linux & SQL 🐧 ](3%20-%20Linux%20%26%20SQL) | `Command-line Interface`, `SQL`, `Linux`, `Bash` | Connect and Protect: Networks and Network Security
-[4 - Assets, Threats, & Vulnerabilities  🔍](4%20-%20Assets%2C%20Threats%2C%20%26%20Vulnerabilities) | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` | Tools of the Trade: Linux and SQL
-[5 - Detection & Response 🚨🔥](5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Incident Journal` | Assets, Threats, and Vulnerabilities
-[6 - Tcpdump & Wireshark :shark:](6%20-%20Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | Sound the Alarm: Detection and Response
-[7 - IDS & SIEM  🌟💡](7%20-%20IDS%20%26%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` | Automate Cybersecurity Tasks with Python
-[8 - Automation with Python ⚙️🐍](8%20-%20Automation%20with%20Python) | `Python Programming`, `Coding`, `Automation`, `Scripting` | Put It to Work: Prepare for Cybersecurity Jobs
+[1 - Conduct a security audit 🌐](1%20-%20Conduct%20a%20security%20audit) | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` | [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/HBP5JL6LT5HC) <br><br> [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/HE34A6NK0E74)
+[2 - Network Security 🔑](2%20-%20Network%20Security) | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |[Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/JP9PQDMRP0O7)
+[3 - Linux & SQL 🐧 ](3%20-%20Linux%20%26%20SQL) | `Command-line Interface`, `SQL`, `Linux`, `Bash` | -
+[4 - Assets, Threats, & Vulnerabilities  🔍](4%20-%20Assets%2C%20Threats%2C%20%26%20Vulnerabilities) | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` | -
+[5 - Detection & Response 🚨🔥](5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Incident Journal` | -
+[6 - Tcpdump & Wireshark :shark:](6%20-%20Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | -
+[7 - IDS & SIEM  🌟💡](7%20-%20IDS%20%26%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` | -
+[8 - Automation with Python ⚙️🐍](8%20-%20Automation%20with%20Python) | `Python Programming`, `Coding`, `Automation`, `Scripting` | -
