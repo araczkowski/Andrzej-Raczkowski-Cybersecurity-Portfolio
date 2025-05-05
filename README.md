@@ -1,5 +1,7 @@
 # Andrzej-Raczkowski-Cybersecurity-Portfolio 🛡️🔒
 
+![Andrzej Raczkowski](assets/ar1.png)
+
 > This repo is inspired by Google Cybersecurity course. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information.
 
 ## Intro (2024)
