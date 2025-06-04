@@ -1,0 +1,17 @@
+# Sensitive data
+*.key
+*.pem
+passwords.txt
+secrets/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/

@@ -45,3 +45,13 @@ Projects | Skills/Knowledge Gained | Certificate
 [6 - Tcpdump & Wireshark :shark:](6%20-%20Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | -
 [7 - IDS & SIEM  🌟💡](7%20-%20IDS%20%26%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` | -
 [8 - Automation with Python ⚙️🐍](8%20-%20Automation%20with%20Python) | `Python Programming`, `Coding`, `Automation`, `Scripting` | -
+
+## 📞 Contact Information
+
+- **LinkedIn**: [https://www.linkedin.com/in/sviete/](https://www.linkedin.com/in/sviete/)
+- **Email**: andrzej@sviete.pl
+- **GitHub**: [[github](https://github.com/araczkowski)]](https://github.com/araczkowski)
+- **Location**: Poland
+
+---
+*This portfolio demonstrates practical cybersecurity skills through hands-on projects and real-world scenarios.*
